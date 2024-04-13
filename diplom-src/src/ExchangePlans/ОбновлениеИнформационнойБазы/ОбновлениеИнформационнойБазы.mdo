@@ -537,6 +537,9 @@
   <content>
     <mdObject>Catalog.НастройкиАвторизацииИнтернетСервисов</mdObject>
   </content>
+  <content>
+    <mdObject>Document.ВКМ_ОбслуживаниеКлиента</mdObject>
+  </content>
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
