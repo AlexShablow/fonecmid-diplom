@@ -12,5 +12,6 @@
   </picture>
   <content>Document.ВКМ_ОбслуживаниеКлиента</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>

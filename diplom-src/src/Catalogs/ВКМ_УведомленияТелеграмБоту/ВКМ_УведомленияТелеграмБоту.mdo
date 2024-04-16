@@ -10,10 +10,8 @@
   <name>ВКМ_УведомленияТелеграмБоту</name>
   <synonym>
     <key>ru</key>
-    <value>УведомленияТелеграмБоту</value>
+    <value>Уведомления телеграм боту</value>
   </synonym>
-  <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.ВКМ_УведомленияТелеграмБоту.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.ВКМ_УведомленияТелеграмБоту.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
@@ -21,15 +19,13 @@
   <fullTextSearch>Use</fullTextSearch>
   <levelCount>2</levelCount>
   <foldersOnTop>true</foldersOnTop>
-  <codeLength>9</codeLength>
-  <descriptionLength>25</descriptionLength>
+  <descriptionLength>150</descriptionLength>
   <codeType>String</codeType>
   <codeAllowedLength>Variable</codeAllowedLength>
-  <checkUnique>true</checkUnique>
-  <autonumbering>true</autonumbering>
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
+  <defaultListForm>Catalog.ВКМ_УведомленияТелеграмБоту.Form.ФормаСписка</defaultListForm>
   <attributes uuid="773a88c8-07fb-4df0-9f67-479a6ae266b1">
     <name>Текст</name>
     <synonym>
@@ -46,4 +42,13 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <forms uuid="15037793-b334-4f16-a340-88f8a70a5094">
+    <name>ФормаСписка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма списка</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
 </mdclass:Catalog>
