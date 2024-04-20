@@ -13,5 +13,11 @@
   <content>Document.ВКМ_ОбслуживаниеКлиента</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>CommonForm.ВКМ_ТокенУправленияТелеграмБотом</content>
+  <content>CommonForm.ВКМ_ИдентификаторГруппыДляОповещения</content>
+  <content>Catalog.ДоговорыКонтрагентов</content>
+  <content>Document.РеализацияТоваровУслуг</content>
+  <content>Enum.ВидыДоговоровКонтрагентов</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
