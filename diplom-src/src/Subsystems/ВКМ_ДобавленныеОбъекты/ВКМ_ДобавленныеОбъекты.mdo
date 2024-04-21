@@ -16,4 +16,5 @@
     <picture>CommonPicture.ИконкаНетология</picture>
   </picture>
   <subsystems>ВКМ_РаботаСЗаявкамиКлиентов</subsystems>
+  <subsystems>ВКМ_РасчётУправленческойЗарплаты</subsystems>
 </mdclass:Subsystem>
